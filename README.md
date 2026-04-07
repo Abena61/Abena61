@@ -1,10 +1,6 @@
 # 👋🏽 Hi, I'm Lordina Osei  
 ### Data Scientist | Business Intelligence | AI & Machine Learning Enthusiast  
 
-Welcome to my GitHub! I’m a graduate student specializing in **Data Science and Big Data Management, AI, Business Intelligence, and Information Systems**.  
-I’m passionate about bridging data, technology, and human insight to create solutions that advance businesses, improve experiences, and shape a smarter future.
-I love building data-driven solutions, exploring machine learning models, and using technology to solve real-world problems.
-
 ---
 
 ## ⭐ About Me  
